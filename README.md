@@ -6,7 +6,7 @@
 
 ```bash
 export AWS_REGION="ap-southeast-1"
-export GITHUB_USER="thaunghtike-share" 
+export GITHUB_USER="Bhone-Myint-Thu" 
 export ROLE_NAME="github-actions-ecs-role"
 
 export AWS_ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text)
